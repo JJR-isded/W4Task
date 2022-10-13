@@ -1,0 +1,70 @@
+h1 {
+    text-align: left;
+    margin-left: 140px;
+    font-size: 25px;
+}
+
+h2 {
+    text-align: left;
+    font-size: 20px;
+}
+
+h2.subheader {
+    text-align: left;
+    margin-left: 140px;
+    font-size: 15px;
+}
+
+h3 {
+    text-align: left; margin-left: 170px;
+}
+
+p {
+    text-align: left; margin-left: 140px;
+    font-weight:normal
+}
+
+div {
+    text-align: left; margin-left: 100px;margin-right: 100px;padding: 25px 50px 50px;
+}
+
+font {
+    text-align: left;
+}
+hr {
+    width: 75%;
+    height: 2;
+    color:#FFF18B;
+}
+
+table {
+    width: 90%
+}
+
+table.CestLaVie {
+    width: 100%
+}
+
+table, th, td {
+    border: 1px 
+}
+
+th {
+    width: 30%; 
+    color: black;
+}
+th, td {
+    padding: 15px;
+}
+th.CestLaVie {
+    width: 60%;
+}
+
+body {
+    font-family: Georgia;
+    background-color: white;
+}
+img {
+     border-radius: 50%;
+     text-align: center;
+    }
